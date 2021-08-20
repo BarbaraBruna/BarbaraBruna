@@ -1,19 +1,19 @@
 <h1 align="center">Hello 🌎 ! This is Bárbara 💁🏻‍♀️</h1>
 <h3 align="center">A passionate programming student from Brazil</h3> <br>
 
-- 🔭 I’m currently working on a project [VerdePerto](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-1-e1-proj-web-t3-denuncias-ambientais-e-urbanas/projects)
+- ✍🏻 I’m currently working on a project [VerdePerto](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-1-e1-proj-web-t3-denuncias-ambientais-e-urbanas/projects)
 
-- 🌱 I’m currently learning **Front-End, HTML, CSS, JS**
+- 👩🏻‍💻 I’m currently learning **Front-End, HTML, CSS, JS**
 
 - ☁ Proudly a [@CloudGirlSin](https://www.linkedin.com/company/cloudgirlsin/) mentee
 
-- 👋 Ask me about **Anything...**
+- 👋🏻 Ask me about **Anything...**
 
-- 📫 How to reach me **LinkedIn**...please try the weblink below
+- 💌 How to reach me **LinkedIn**...please try the weblink below
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/barbaragelape/](https://www.linkedin.com/in/barbaragelape/)
 
-- ⚡ Fun fact **I like to make people laugh and I love cats!**
+- 😁 Fun facts **I like to make people laugh, I love cats, sci-fi and horror movies!**
 
 
 <h3 align="left">Languages and Tools:</h3>
