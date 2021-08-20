@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! This is Bárbara 👋</h1>
+<h1 align="center">Hello 🌎 ! This is Bárbara 💁🏻‍♀️</h1>
 <h3 align="center">A passionate programming student from Brazil</h3> <br>
 
 - 🔭 I’m currently working on a project [VerdePerto](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-1-e1-proj-web-t3-denuncias-ambientais-e-urbanas/projects)
@@ -7,7 +7,7 @@
 
 - ☁ Proudly a [@CloudGirlSin](https://www.linkedin.com/company/cloudgirlsin/) mentee
 
-- 💬 Ask me about **Anything...**
+- 👋 Ask me about **Anything...**
 
 - 📫 How to reach me **LinkedIn**...please try the weblink below
 
