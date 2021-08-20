@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/barbaragelape/](https://www.linkedin.com/in/barbaragelape/)
 
-- 😁 Fun facts **I like to make people laugh, I love cats, sci-fi and horror movies!**
+- 😁 Fun facts **I like to make people laugh, I love cats, studio Ghibli, sci-fi and horror movies!**
 
 
 <h3 align="left">Languages and Tools:</h3>
