@@ -9,7 +9,7 @@
 
 - 👋🏻 Ask me about **Anything...**
 
-- 💌 How to reach me **LinkedIn**...please try the weblink below
+- 💌 How to reach me? ... please try the weblink below
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/barbaragelape/](https://www.linkedin.com/in/barbaragelape/)
 
