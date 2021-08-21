@@ -17,7 +17,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarbaraBruna&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarbaraBruna&theme=radical&show_icons=true)
 
 
 <h3 align="left">Languages and Tools:</h3>
