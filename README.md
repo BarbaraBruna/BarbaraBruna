@@ -7,7 +7,7 @@
 
 - ☁ Proudly a [@CloudGirlSin](https://www.linkedin.com/company/cloudgirlsin/) mentee
 
-- 👩‍💻 Proudly a [@FrameworkDigital](https://www.frameworkdigital.com.br/) intern
+- 👩‍💻 Proudly a [@FrameworkDigital](https://www.frameworkdigital.com.br/) intern padawan
 
 - 👋🏻 Ask me about **Anything...**
 
