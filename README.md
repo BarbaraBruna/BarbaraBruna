@@ -1,7 +1,7 @@
 <h1 align="center">Hello 🌎 ! This is Bárbara 💁🏻‍♀️</h1>
 <h3 align="center">A passionate programming student from Brazil</h3> <br>
 
-- ✍🏻 I’m currently working on a project [VerdePerto](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-1-e1-proj-web-t3-denuncias-ambientais-e-urbanas/projects)
+- ✍🏻 I’m currently working on a personal project [VerdePerto](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-1-e1-proj-web-t3-denuncias-ambientais-e-urbanas/projects)
 
 - 👩🏻‍💻 I’m currently learning **Front-End, HTML, CSS, JS**
 
